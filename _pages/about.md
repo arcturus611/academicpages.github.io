@@ -14,16 +14,16 @@ Before starting research in optimization in 2017, I got a B.Tech in Electronics 
 
 Publications
 =======
-**A Faster Interior-Point Method for Semidefinite Programming**  
- Haotian Jiang, Tarun Kathuria, Yin Tat Lee, Swati Padmanabhan, Zhao Song
+**A Faster Interior-Point Method for Semidefinite Programming** 
+ Haotian Jiang, Tarun Kathuria, Yin Tat Lee, Swati Padmanabhan, Zhao Song 
 *FOCS 2020*
 
-**An O(m/epsilon^3.5) Algorithm for Semidefinite Programs with Diagonal Constraints**    [[arXiv]](https://arxiv.org/abs/1903.01859) 
-Yin Tat Lee, Swati Padmanabhan
+**An O(m/epsilon^3.5) Algorithm for Semidefinite Programs with Diagonal Constraints**  [[arXiv]](https://arxiv.org/abs/1903.01859)  
+Yin Tat Lee, Swati Padmanabhan 
 *COLT 2020*
 
-**Positive Semidefinite Programming: Mixed, Parallel, and Width-Independent**  [[arXiv]](https://arxiv.org/abs/2002.04830) 
-Arun Jambulapati, Yin Tat Lee, Jerry Li, Swati Padmanabhan, Kevin Tian  
+**Positive Semidefinite Programming: Mixed, Parallel, and Width-Independent**  [[arXiv]](https://arxiv.org/abs/2002.04830)  
+Arun Jambulapati, Yin Tat Lee, Jerry Li, Swati Padmanabhan, Kevin Tian   
 *STOC 2020*
 
 
